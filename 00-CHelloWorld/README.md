@@ -1,4 +1,4 @@
-# Repositorio de Sintaxis y Semántica de los Lenguajes 
+#TP0
 
 Nombre y apellido: **Nehuen, Balian Amaros**
 
