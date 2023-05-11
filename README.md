@@ -2,6 +2,6 @@
 
 Nombre y apellido: **Nehuen, Balian Amaros**
 
-Compilador: ***GCC mediante Bash***
+Compilador: *** gcc (GCC) 12.2.1 mediante Bash***
 
 Año: 2023
